@@ -16,3 +16,5 @@ python filename.py
 
 Author:
 Dhruv
+
+Free to use for learning and practice.
