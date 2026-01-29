@@ -17,4 +17,5 @@ python filename.py
 Author:
 Dhruv
 
-Free to use for learning and practice.
+## License
+Free to use for learning and educational purposes.
