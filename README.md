@@ -1,25 +1,18 @@
-# Logic Questions (Python)
+# Logical Questions 🧠
 
-Author: Dhruv
+A collection of logical and programming questions for practice and skill improvement.
 
-## Description
-This folder contains selected Python logic and OOP practice problems.
-These problems cover:
-- loops & conditions
-- functions
-- lists & dictionaries
-- file handling
-- object oriented programming
+## Features
+- Beginner friendly questions
+- Improves problem solving
+- Python based examples
+- Practice oriented
 
-All programs are beginner friendly and suitable for interview practice.
+## How to Use
+Open the files and run them using:
 
-## How to run
 ```bash
 python filename.py
-```
 
-## Requirements
-Python 3.x
-
-## License
-Free for learning and educational use.
+Author:
+Dhruv
